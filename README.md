@@ -37,7 +37,7 @@ My final notebook:
 
 * For part two I created a heat map that displays the humidity for every city from the part I of the homework.
 
-* I narred down the DataFrame to find the following weather condition.
+* I narrowed down the DataFrame to find the following weather condition.
 
   * A max temperature lower than 80 degrees but higher than 70.
 
