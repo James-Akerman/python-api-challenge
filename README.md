@@ -1,8 +1,8 @@
-# python-api-challenge
+# Weather Analysis
 
-## Part I - WeatherPy
+This directory contains a jupyter notebook which analyses the weather patterns of 500+ cities from around the world of varying distance from the equator.
 
-In this Monash University Data Analytics Boot Camp/Trilogy Education Services homework, I was tasked with creating a Python script to visualise the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilised a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
+It the [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 My first requirement was to create a series of scatter plots to showcase the following relationships:
 
@@ -32,6 +32,14 @@ My final notebook:
 * Performs a weather check on each of the cities using a series of successive API calls.
 * Includes a print log of each city as it's being processed with the city number and city name.
 * Saves a CSV of all retrieved data and a PNG image for each scatter plot.
+
+<br>
+
+## Tools/Packages used:
+- Python
+  - Pandas
+  - Citipy
+
 
 ### Part II - VacationPy
 
