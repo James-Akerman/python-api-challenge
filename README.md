@@ -10,23 +10,23 @@ Several of the figures show that city temperatures increase the closer they are 
 
 ![figure 5](WeatherPy/output/Part-1/figure-5.png)
 
-![figure 6](output/Part-1/figure-6.PNG)
+![figure 6](output/Part-1/figure-6.png)
 
 <br>
 
 #### Observation 2: There is a very weak relationship between a city's wind speed and it's distance from the equator.
 The data shows that there is a weak relationship between a city's wind speed and it's distance from the equator and that this relationship differs in both strength and direction depending on the hemisphere. For instance Figure 11 shows a very weak positive relationship between wind speed (mph) and latitude for cities located within the Northern hemisphere (0.09), while Figure 12 shows a slightly weaker opposite relationship between wind speed (mph) and latitude for cities located within the Southern hemisphere (-0.08).
-![figure 11](output/Part-1/figure-11.PNG)
+![figure 11](output/Part-1/figure-11.png)
 
-![figure 12](output/Part-1/figure-12.PNG)
+![figure 12](output/Part-1/figure-12.png)
 
 <br>
 
 #### Observation 3: There is a very weak relationship between a city's cloudiness and it's distance from the equator.
 The data shows that there is a weak relationship between a city's cloudiness and it's distance from the equator and that this relationship differs slightly in strength depending on the hemisphere. For instance Figure 9 shows a very weak positive relationship between cloudiness (%) and latitude for cities located within the Northern hemisphere (0.03), while Figure 10 shows a slightly stronger positive relationship between cloudiness (%) and latitude for cities located within the Southern hemisphere (0.13).
-![figure 9](output/Part-1/figure-9.PNG)
+![figure 9](output/Part-1/figure-9.png)
 
-![figure 10](output/Part-1/figure-10.PNG)
+![figure 10](output/Part-1/figure-10.png)
 
 <br>
 
@@ -45,7 +45,7 @@ I created a heat map that displays the humidity for every city from Part I, whic
 - Wind speed less than 10 mph.
 - Zero cloudiness.
 
-![vacation heatmap](output/Part-2/city-hotel-heatmap.PNG)
+![vacation heatmap](output/Part-2/city-hotel-heatmap.png)
 
 ## Tools/Packages used:
 - OpenWeatherAPI
