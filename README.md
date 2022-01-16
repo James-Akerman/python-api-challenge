@@ -7,6 +7,7 @@ This directory is divided into two parts. Part I contains a jupyter notebook whi
 From the analysis of weather patterns from 671 randomly chosen cities, the following four observation were found:
 #### Observation 1: There is a relatively strong relationship between a city's temperature and it's distance from the equator.
 Several of the figures show that city temperatures increase the closer they are to the equator. For instance Figure 5 shows that there is a strong negative correlation between maximum temperature and latitude for cities located within the Northern hemisphere (-0.81), while Figure 6 shows a slightly weaker but still strong positive relationship between maximum temperature and latitude for cities located within the Southern hemisphere (0.76). This may be because the equator always gets the most amount of direct sunlight (and thus warmth) of any place on the planet.
+
 ![figure 5](WeatherPy/output/Part 1/figure-5.png)
 
 ![figure 6](output/Part 1/figure-6.PNG)
