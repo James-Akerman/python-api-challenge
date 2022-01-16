@@ -47,6 +47,8 @@ I created a heat map that displays the humidity for every city from Part I, whic
 
 ![vacation heatmap](WeatherPy/output/Part-2/city-hotel-heatmap.png)
 
+<br>
+
 ## Tools/Packages used:
 - OpenWeatherAPI
 - Python
