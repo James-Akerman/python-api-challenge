@@ -50,7 +50,7 @@ I created a heat map that displays the humidity for every city from Part I, whic
 
 <br>
 
-## Tools/Packages used:
+## Tools/Packages used
 - OpenWeatherAPI
 - Python
   - Pandas
