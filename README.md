@@ -32,9 +32,9 @@ The data shows that there is a weak relationship between a city's cloudiness and
 
 #### Observation 4: There is a very weak relationship between a city's humidity and it's distance from the equator.
 The data shows that there is a weak relationship between a city's humidity and it's distance from the equator and that this relationship differs slightly in strength and direction depending on the hemisphere. For instance Figure 7 shows a very weak positive relationship between humidity (%) and latitude for cities located within the Northern hemisphere (0.04), while Figure 8 shows a slightly weaker negative relationship between humidity (%) and latitude for cities located within the Southern hemisphere (-0.02). This difference may be because there is more land to heat up in the northern hemisphere which causes the air to become slightly warmer and thus more humid.
-![figure 7](WeatherPy/output/Part-1/figure-7.PNG)
+![figure 7](WeatherPy/output/Part-1/figure-7.png)
 
-![figure 8](WeatherPy/output/Part-1/figure-8.PNG)
+![figure 8](WeatherPy/output/Part-1/figure-8.png)
 
 <br>
 
