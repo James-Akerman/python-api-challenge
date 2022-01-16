@@ -10,31 +10,31 @@ Several of the figures show that city temperatures increase the closer they are 
 
 ![figure 5](WeatherPy/output/Part-1/figure-5.png)
 
-![figure 6](output/Part 1/figure-6.PNG)
+![figure 6](output/Part-1/figure-6.PNG)
 
 <br>
 
 #### Observation 2: There is a very weak relationship between a city's wind speed and it's distance from the equator.
 The data shows that there is a weak relationship between a city's wind speed and it's distance from the equator and that this relationship differs in both strength and direction depending on the hemisphere. For instance Figure 11 shows a very weak positive relationship between wind speed (mph) and latitude for cities located within the Northern hemisphere (0.09), while Figure 12 shows a slightly weaker opposite relationship between wind speed (mph) and latitude for cities located within the Southern hemisphere (-0.08).
-![figure 11](output/Part 1/figure-11.PNG)
+![figure 11](output/Part-1/figure-11.PNG)
 
-![figure 12](output/Part 1/figure-12.PNG)
+![figure 12](output/Part-1/figure-12.PNG)
 
 <br>
 
 #### Observation 3: There is a very weak relationship between a city's cloudiness and it's distance from the equator.
 The data shows that there is a weak relationship between a city's cloudiness and it's distance from the equator and that this relationship differs slightly in strength depending on the hemisphere. For instance Figure 9 shows a very weak positive relationship between cloudiness (%) and latitude for cities located within the Northern hemisphere (0.03), while Figure 10 shows a slightly stronger positive relationship between cloudiness (%) and latitude for cities located within the Southern hemisphere (0.13).
-![figure 9](output/Part 1/figure-9.PNG)
+![figure 9](output/Part-1/figure-9.PNG)
 
-![figure 10](output/Part 1/figure-10.PNG)
+![figure 10](output/Part-1/figure-10.PNG)
 
 <br>
 
 #### Observation 4: There is a very weak relationship between a city's humidity and it's distance from the equator.
 The data shows that there is a weak relationship between a city's humidity and it's distance from the equator and that this relationship differs slightly in strength and direction depending on the hemisphere. For instance Figure 7 shows a very weak positive relationship between humidity (%) and latitude for cities located within the Northern hemisphere (0.04), while Figure 8 shows a slightly weaker negative relationship between humidity (%) and latitude for cities located within the Southern hemisphere (-0.02). This difference may be because there is more land to heat up in the northern hemisphere which causes the air to become slightly warmer and thus more humid.
-![figure 7](output/Part 1/figure-7.PNG)
+![figure 7](output/Part-1/figure-7.PNG)
 
-![figure 8](output/Part 1/figure-8.PNG)
+![figure 8](output/Part-1/figure-8.PNG)
 
 <br>
 
@@ -45,7 +45,7 @@ I created a heat map that displays the humidity for every city from Part I, whic
 - Wind speed less than 10 mph.
 - Zero cloudiness.
 
-![vacation heatmap](output/Part 2/city-hotel-heatmap.PNG)
+![vacation heatmap](output/Part-2/city-hotel-heatmap.PNG)
 
 ## Tools/Packages used:
 - OpenWeatherAPI
