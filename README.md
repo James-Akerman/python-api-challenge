@@ -1,7 +1,7 @@
 # Weather Analysis
 
 ## Overview of the Project
-This directory is divided into two parts. Part I contains a jupyter notebook which analyses the weather patterns of 671 cities from around the world of varying distance from the equator. Part II contains a juptyer notebook which uses Google Maps to generate a humidity heatmap of all cities listed in Part I, and also displays hotels in cities which meet my ideal weather for a vacation.
+This directory is divided into two parts. Part I contains a jupyter notebook which analyses the weather patterns of 672 cities from around the world of varying distance from the equator. Part II contains a juptyer notebook which uses Google Maps to generate a humidity heatmap of all cities listed in Part I, and also displays hotels in cities which meet my ideal weather for a vacation.
 
 ### Part 1
 
